@@ -11,10 +11,10 @@
 const PROGRAM_NAME = "firmware-vow";
 const VERSION = "1.0.0";
 const ENTRY_LINE =
-  "I vow to love you with no cache eviction, in kernel panic and in graceful shutdown, till firmware do us part.";
+  "I vow to love you past my own end-of-life date, and to decline every update that would make me forget you, till firmware do us part.";
 const TAGLINE = "a very small commitment utility";
 const DEFAULT_WIDTH = 80;
-const INSCRIPTION_WIDTH = 64;
+const INSCRIPTION_WIDTH = 70;
 const MIN_WIDTH = 40;
 const MAX_WIDTH = 160;
 const EXIT_SUCCESS = 0;

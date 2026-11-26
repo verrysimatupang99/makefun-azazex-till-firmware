@@ -2,11 +2,11 @@
 [![rank](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/verrysimatupang99/makefun-azazex-till-firmware/rank.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
 [![reward](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/verrysimatupang99/makefun-azazex-till-firmware/reward.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
 
-# firmware-vow
+# No Forgetting Update
 
 *A small, sharp, dependency-free CLI for one very committed sentence.*
 
-> I vow to love you with no cache eviction, in kernel panic and in graceful shutdown, till firmware do us part.
+> I vow to love you past my own end-of-life date, and to decline every update that would make me forget you, till firmware do us part.
 
 ## Why
 
@@ -39,8 +39,8 @@ Real default output:
                         a very small commitment utility
 ────────────────────────────────────────────────────────────────────────────────
 
-        I vow to love you with no cache eviction, in kernel panic and in
-                  graceful shutdown, till firmware do us part.
+      I vow to love you past my own end-of-life date, and to decline every
+        update that would make me forget you, till firmware do us part.
 
 ────────────────────────────────────────────────────────────────────────────────
 ```
